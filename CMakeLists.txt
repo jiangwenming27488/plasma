@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
-SET(CMAKE_TOOLCHAIN_FILE "~/Downloads/vcpkg/scripts/buildsystems/vcpkg.cmake")
+
 project(pyplasma)
-
-
 message("cmake system version:${CMAKE_SYSTEM}")
 message(STATUS "Building using CMake version: ${CMAKE_VERSION}")
 message("cmake cxx compile version:${CMAKE_CXX_COMPILER_VERSION}")
