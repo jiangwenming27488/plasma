@@ -1,6 +1,7 @@
 ## introduction
 
-    this project extracts the module["pyplasma"] from origin pyarrow project(version before 11.0.0) and use it as an independent module you can use it in c++ and python 
+    this project extracts the module["pyplasma"] from origin pyarrow project(version before 11.0.0),  
+    you can use it as an independent module you can use it in c++ and python 
 
 ## compile
 
